@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Antimatter.io<br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning Web3<br>💬 Ask me about Frontend Development<br>⚡ Fun fact: I'd love to be a drummer
+🔭 I’m currently working at PetSmart.<br>👯 I’m looking to collaborate on Web3 projects<br>🌱 I’m currently learning Web3<br>💬 Ask me about Frontend Development<br>⚡ Fun fact: I'd love to be a drummer
 
 
 ## 🌐 Socials:
